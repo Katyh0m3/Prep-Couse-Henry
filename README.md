@@ -1,2 +1,3 @@
 # Prep-Couse-Henry
-Este es un repositorio de prueba del módulo 2 del Prep Course de Henry
+KHome Cubides
+Este proyecto es una prueba de cómo crear un repositorio y clonarlo desde GitHub a mi escritorio local. 
